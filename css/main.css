@@ -58,7 +58,7 @@ hr {
   border-color: #2d2d2d;
 }
 
-.navbar-inverse .navbar-nav > .active > a {
+.navbar-inverse .navbar-nav .active a {
   background-color: #ff7878;
 }
 
@@ -86,3 +86,31 @@ hr {
   -webkit-background-size: cover;
   background-size: cover;
   }
+
+#headerwrap h1 {
+  margin-top: 100px;
+  color: white;
+  font-size: 70px;
+  font-weight: 300px;
+  letter-spacing: 3px;
+}
+
+#headerwrap h2 {
+  color: white;
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+}
+
+.w {
+  padding-top: 25px;
+}
+
+.w h4 {
+  font-size:25px;
+}
+
+.w p {
+  font-size:15px;
+}
