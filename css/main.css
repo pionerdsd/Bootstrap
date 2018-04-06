@@ -164,3 +164,19 @@ margin-bottom:
 #lg h4 {
   font-size: 45px;
 }
+
+#f {
+background: #2d2d2d;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#f i {
+  color: #bdbdbd;
+  font-size: 20px;
+  padding: 20px;
+}
+
+#f i:hover {
+  color:#ff7878;
+}
