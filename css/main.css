@@ -126,3 +126,41 @@ hr {
 #dg h4 {
   font-size: 40px;
   }
+
+.tilt {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.tilt:hover {
+  -webkit-transform: rotate(-20deg);
+     -moz-transform: rotate(-20deg);
+       -o-transform: rotate(-20deg);
+      -ms-transform: rotate(-20deg);
+          transform: rotate(-20deg);
+}
+
+.wb {
+padding-top: 35px;
+margin-bottom:
+}
+
+.wb h4 {
+  font-size:  35px;
+}
+.wb p {
+  font-size:  15px;
+}
+
+#lg {
+  background: #ebebeb;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+#lg h4 {
+  font-size: 45px;
+}
